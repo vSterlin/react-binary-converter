@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-binary-converter/static/css/main.4bb970b8.chunk.css",
-    "main.js": "/react-binary-converter/static/js/main.4fc9f98b.chunk.js",
-    "main.js.map": "/react-binary-converter/static/js/main.4fc9f98b.chunk.js.map",
+    "main.js": "/react-binary-converter/static/js/main.f885e5bb.chunk.js",
+    "main.js.map": "/react-binary-converter/static/js/main.f885e5bb.chunk.js.map",
     "runtime~main.js": "/react-binary-converter/static/js/runtime~main.d8c3f6fd.js",
     "runtime~main.js.map": "/react-binary-converter/static/js/runtime~main.d8c3f6fd.js.map",
     "static/js/2.bfa607b3.chunk.js": "/react-binary-converter/static/js/2.bfa607b3.chunk.js",
     "static/js/2.bfa607b3.chunk.js.map": "/react-binary-converter/static/js/2.bfa607b3.chunk.js.map",
     "index.html": "/react-binary-converter/index.html",
-    "precache-manifest.5e2e20807a0c1caded8f9354a187c980.js": "/react-binary-converter/precache-manifest.5e2e20807a0c1caded8f9354a187c980.js",
+    "precache-manifest.550f950c022f832799746a5475b13dba.js": "/react-binary-converter/precache-manifest.550f950c022f832799746a5475b13dba.js",
     "service-worker.js": "/react-binary-converter/service-worker.js",
     "static/css/main.4bb970b8.chunk.css.map": "/react-binary-converter/static/css/main.4bb970b8.chunk.css.map",
     "static/media/icon.svg": "/react-binary-converter/static/media/icon.21965593.svg"
